@@ -1,8 +1,4 @@
-# <p align="center">
-  <img src="https://images.cooltext.com/5736913.gif" width="449" height="94" alt="Anis Ahmed" />
-</p>
-
-
+# <a href="https://cooltext.com"><img src="https://images.cooltext.com/5736912.png" width="667" height="131" alt="Anis Ahmed" /></a>
 
 ---
 
