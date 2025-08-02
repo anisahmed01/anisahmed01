@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Anis Ahmed
 
-💼 Business Analyst | 📚 ECBA Aspirant  
-🛠️ Skilled in: SQL 🧮 • Power BI 📊 • Excel 📈 • Python 🐍  
-🌱 Learning in public | 🚀 Sharing projects & my growth journey  
-
 ---
 
 ## 🔧 Tools & Technologies
@@ -31,5 +27,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webanis/)
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/anis_z7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aneesonly_)
+
+---
+### 📊 GitHub Stats
+
+![Anis’s GitHub stats](https://github-readme-stats.vercel.app/api?username=anisahmed01&show_icons=true&theme=default)
 
 
