@@ -1,8 +1,9 @@
-# <div align="center">
+# <p align="center">
   <a href="https://cooltext.com">
     <img src="https://images.cooltext.com/5736913.gif" width="449" height="94" alt="Anis Ahmed" />
   </a>
-</div>
+</p>
+
 
 
 ---
