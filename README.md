@@ -4,6 +4,7 @@
   </a>
 </div>
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Business+Analyst&center=true&width=500&height=50)
 
 
 
