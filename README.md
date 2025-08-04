@@ -28,8 +28,8 @@
 ## 📜 Certifications
 
 - 🧩 [Business Analysis Fundamentals (Udemy)](https://shorturl.at/MNb93)
-- 📊 [Power BI E-Learning Certificate (Google Drive)](https://drive.google.com/file/d/14eoQpTCLFLRZtkcjij5sld508cjvviP9/view?usp=sharing)
-- 🧠 [SQL Micro Course Certificate (Google Drive)](https://drive.google.com/file/d/1q19SCtWi-yPQjgexWWn2R_81DrHifx5n/view?usp=sharing)
+- 📊 [Power BI E-Learning Certificate (Skill Course)](https://drive.google.com/file/d/14eoQpTCLFLRZtkcjij5sld508cjvviP9/view?usp=sharing)
+- 🧠 [SQL Micro Course Certificate (Skill Course)](https://drive.google.com/file/d/1q19SCtWi-yPQjgexWWn2R_81DrHifx5n/view?usp=sharing)
 
 ---
 📫 Connect with me on 
