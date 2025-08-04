@@ -26,8 +26,9 @@
 ---
 
 ## 📜 Certifications
+- 📊 [Power BI E-Learning Certificate (Google Drive)](https://drive.google.com/file/d/1q19SCtWi-yPQjgexWWn2R_81DrHifx5n/view?usp=drive_link)
+
 - ✅ ECBA (in progress)
-- 🏅 Power BI Basics – [LinkedIn Learning](#)
 - 📁 Excel for Analysts – [Coursera](#)
 
 ---
