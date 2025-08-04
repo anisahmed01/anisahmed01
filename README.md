@@ -18,7 +18,11 @@
 
 ---
 
-## 📌 Projects
+## 💼 Portfolio Projects
+
+- 🧮 [SQL Projects Repository](https://github.com/anisahmed01/SQL_Projects) — Real-world SQL mini-projects with queries, datasets, and business questions.
+  - 🏥 [Hospital Data Analysis](https://github.com/anisahmed01/SQL_Projects/tree/main/hospital-analysis)
+
 - 📊 [Sales Dashboard in Power BI](#) *(coming soon)*
 - 🐍 [Python Automation Scripts](#) *(coming soon)*
 - 🧮 [SQL Query Practice](#) *(coming soon)*
@@ -26,6 +30,7 @@
 ---
 
 ## 📜 Certifications
+
 
 - 🧩 [Business Analysis Fundamentals (Udemy)](https://shorturl.at/MNb93)
 - 📊 [Power BI E-Learning Certificate (Skill Course)](https://drive.google.com/file/d/14eoQpTCLFLRZtkcjij5sld508cjvviP9/view?usp=sharing)
