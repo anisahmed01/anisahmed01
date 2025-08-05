@@ -21,7 +21,7 @@
 ## 💼 Portfolio Projects
 
 - 🧮 [SQL Projects Repository](https://github.com/anisahmed01/SQL_Projects) — Real-world SQL mini-projects with queries, datasets, and business questions.
-  - 🏥 [India_Hospital Analysis](https://github.com/anisahmed01/SQL_Projects/blob/main/India_Hospital-Insights/Queries_India_Hospital_Insights.sql)
+  - 🏥 [India_Hospital Analysis](https://github.com/anisahmed01/SQL_Projects/blob/main/India_Hospital_Insights/Queries_India_Hospital_Insights.sql)
 
 - 📊 [Sales Dashboard in Power BI](#) *(coming soon)*
 - 🐍 [Python Automation Scripts](#) *(coming soon)*
