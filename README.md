@@ -23,7 +23,9 @@
 - 🧮 [SQL Projects Repository](https://github.com/anisahmed01/SQL_Projects) — Real-world SQL mini-projects with queries, datasets, and business questions.
   - 🏥 [India_Hospital Analysis](https://github.com/anisahmed01/SQL_Projects/blob/main/India_Hospital_Insights/Queries_India_Hospital_Insights.sql)
 
-- 📊 [Sales Dashboard in Power BI](#) *(coming soon)*
+- 📊 [Power_BI_Project_Repository](https://github.com/anisahmed01/Power_BI_Projects) — Real World Power BI Projects and Interactive Dashboards
+  -   📱 [Mobile Phone Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)
+
 - 🐍 [Python Automation Scripts](#) *(coming soon)*
 - 🧮 [SQL Query Practice](#) *(coming soon)*
 
