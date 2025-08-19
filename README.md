@@ -36,7 +36,7 @@
 - 📱 [Mobile Phone Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)  
 - 🛒 [Amazon Store Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Amazon_Store_Sales_Dashboard)
 
-
+## Others
 - 🐍 [Python Automation Scripts](#) *(coming soon)*
 - 🧮 [SQL Query Practice](#) *(coming soon)*
 
