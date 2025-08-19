@@ -33,6 +33,8 @@
 
 - 📊 [Power_BI_Project_Repository](https://github.com/anisahmed01/Power_BI_Projects) — Real World Power BI Projects and Interactive Dashboards
   -   📱 [Mobile Phone Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)
+  -   [![Amazon_Store_Sales_Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/Amazon_Store_Sales_Dashboard)
+
 
 - 🐍 [Python Automation Scripts](#) *(coming soon)*
 - 🧮 [SQL Query Practice](#) *(coming soon)*
