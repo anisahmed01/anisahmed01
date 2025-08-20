@@ -30,6 +30,9 @@
 
 - 🧮 [SQL Projects Repository](https://github.com/anisahmed01/SQL_Projects) — Real-world SQL mini-projects with queries, datasets, and business questions.
   - 🏥 [India_Hospital Analysis](https://github.com/anisahmed01/SQL_Projects/tree/main/India_Hospital_Insights)
+ 
+
+  
 
 ## 📊 Power BI Dashboards
 
