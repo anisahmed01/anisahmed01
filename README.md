@@ -45,10 +45,14 @@
 
 ## 📜 Certifications
 
+- - **Full Business Analysis (FBA-0912-2508)** — Analyst’s Corner  
+  *IIBA®-endorsed training | 21 PDUs/CDUs | August 2025*  
+  [📄 View Certificate](https://drive.google.com/file/d/1rE6-iERQKUWMw6TOZPB2zB7P_eCzojIN/view?usp=sharing)
 
 - 🧩 [Business Analysis Fundamentals (Udemy)](https://shorturl.at/MNb93)
 - 📊 [Power BI E-Learning Certificate (Skill Course)](https://drive.google.com/file/d/14eoQpTCLFLRZtkcjij5sld508cjvviP9/view?usp=sharing)
 - 🧠 [SQL Micro Course Certificate (Skill Course)](https://drive.google.com/file/d/1q19SCtWi-yPQjgexWWn2R_81DrHifx5n/view?usp=sharing)
+
 
 ---
 📫 Connect with me on 
