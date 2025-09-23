@@ -28,6 +28,11 @@
 
 ## 💼 Portfolio Projects
 
+## 🏏 IPL Auction Simulator
+A Google Sheets + Apps Script project simulating the IPL auction process.  
+👉 [View Repository](https://github.com/anisahmed01/IPL_Auction_Simulator.git)
+
+
 ## 🧮SQL Projects  — Real-world SQL mini-projects with queries, datasets, and business questions.
 - 🏥 [India_Hospital Analysis](https://github.com/anisahmed01/SQL_Projects/tree/main/India_Hospital_Insights)
  
