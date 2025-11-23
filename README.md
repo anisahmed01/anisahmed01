@@ -1,5 +1,10 @@
-<h1 align="center">Anis Ahmed</h1>
-<p align="center"><img src="https://github.com/anisahmed01/assets/line.png"/></p>
+<p align="center">
+  <h1>Anis Ahmed</h1>
+</p>
+<p align="center">
+  <img src="https://github.com/anisahmed01/assets/line.png" alt="line">
+</p>
+
 
 
 Data Analyst focusing on SQL, Python, and BI tools.  
