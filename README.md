@@ -1,5 +1,7 @@
-<h1 align="center">Anis Ahmed</h1>
-<p align="center">Data Analyst | SQL • Python • Power BI</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&center=true&vCenter=true&width=500&lines=Anis+Ahmed;Data+Analyst;SQL+%7C+Python+%7C+Power+BI" />
+</h1>
+
 
 
 Data Analyst focusing on SQL, Python, and BI tools.  
