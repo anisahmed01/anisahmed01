@@ -1,4 +1,6 @@
-# Anis Ahmed
+<h1 align="center">Anis Ahmed</h1>
+<p align="center">Data Analyst | SQL • Python • Power BI</p>
+
 
 Data Analyst focusing on SQL, Python, and BI tools.  
 I build data projects that analyze real datasets, automate workflows, and visualize insights with dashboards and reports.
