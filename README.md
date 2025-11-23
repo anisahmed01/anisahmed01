@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&center=true&vCenter=true&width=500&lines=Anis+Ahmed;Data+Analyst;SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG">
-</p>
+<h1 align="center">Anis Ahmed</h1>
+<p align="center"><img src="https://github.com/anisahmed01/assets/line.png"/></p>
 
 
 Data Analyst focusing on SQL, Python, and BI tools.  
