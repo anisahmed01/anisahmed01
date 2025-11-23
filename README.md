@@ -1,6 +1,6 @@
 # Anis Ahmed
 
-Aspiring Data Analyst focusing on SQL, Python, and BI tools.  
+Data Analyst focusing on SQL, Python, and BI tools.  
 I build data projects that analyze real datasets, automate workflows, and visualize insights with dashboards and reports.
 
 ---
