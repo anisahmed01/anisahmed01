@@ -33,6 +33,8 @@
 
 ### 🐍 Python Projects
 - [Bank Account Management System (Streamlit + JSON)](https://github.com/anisahmed01/python/tree/main/bank-account-management-python)
+- [Python File Manager (CLI)](https://github.com/anisahmed01/python/tree/main/python-file-manager-cli)
+
 
 ---
 
