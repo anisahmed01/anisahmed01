@@ -1,40 +1,50 @@
 <h1 align="center">Anis Ahmed</h1>
-<p align="center">Data Analyst | SQL • Python • Power BI</p>
+<p align="center">Data Analyst | Python-Driven Analytics • SQL • Power BI</p>
 
 ---
 
 ## 🛠 Skills & Tools
 
-**Data & Analytics**  
+**Data Analysis & Visualization**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat)
+
+**Databases & BI**  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**Programming**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+**Development & Execution**  
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Tools**  
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
+### 🐍 Python & Data Analysis Projects
+- [IPL 2022 Data Analysis](https://github.com/anisahmed01/ipl-2022-analysis)
+- [IMDb Movie Rating Analysis](https://github.com/anisahmed01/imdb-movie-rating-analysis)
+- [Delhi Weather Data Analysis](https://github.com/anisahmed01/delhi-weather-analysis)
+- [Python File Manager (CLI)](https://github.com/anisahmed01/file-manager-cli)
+- [Bank Account Management System](https://github.com/anisahmed01/Bank-Account-Management-System)
+
+---
+
 ### 📊 Power BI Dashboards
-- [Mobile Phone Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)  
+- [Mobile Phone Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)
 - [Amazon Store Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Amazon_Store_Sales_Dashboard)
+
+---
 
 ### 🧮 SQL Projects
 - [India Hospital Insights](https://github.com/anisahmed01/SQL_Projects/tree/main/India_Hospital_Insights)
-
-### 🐍 Python Projects
-- [Bank Account Management System (Streamlit + JSON)](https://github.com/anisahmed01/python/tree/main/bank-account-management-python)
-- [Python File Manager (CLI)](https://github.com/anisahmed01/python/tree/main/python-file-manager-cli)
-
 
 ---
 
@@ -47,9 +57,10 @@
 
 ## 📚 Currently Learning
 
-- Advanced SQL (window functions, optimization)  
-- Statistical analysis & hypothesis testing  
-- Python for data cleaning & automation
+- Statistical analysis for data-driven decision making (hypothesis testing, confidence intervals)
+- Advanced Pandas for analytical workflows (groupby, aggregations, feature engineering)
+- SQL for analytical querying (window functions, joins, subqueries)
+- Translating analytical results into business insights
 
 ---
 
