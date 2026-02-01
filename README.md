@@ -61,10 +61,13 @@
 
 ## 📚 Currently Learning
 
-- Statistical analysis for data-driven decision making (hypothesis testing, confidence intervals)
-- Advanced Pandas for analytical workflows (groupby, aggregations, feature engineering)
-- SQL for analytical querying (window functions, joins, subqueries)
-- Translating analytical results into business insights
+- Applied statistical inference for business analysis (confidence intervals, hypothesis testing)
+- Advanced Pandas for production-style analytics (groupby pipelines, feature engineering, data validation)
+- SQL for analytical workloads (CTEs, window functions, multi-table joins)
+- Converting exploratory analysis into decision-ready insights and dashboards
+- Designing end-to-end analytical workflows from database to dashboard
+
+
 
 ---
 
@@ -72,10 +75,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webanis/)
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/anis_z7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aneesonly_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/anisahmed.in)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Anis’s GitHub stats](https://github-readme-stats.vercel.app/api?username=anisahmed01&show_icons=true)
+![Anis GitHub Stats](https://github-readme-stats.vercel.app/api?username=anisahmed01&show_icons=true)
+
