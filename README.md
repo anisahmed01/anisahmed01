@@ -29,6 +29,9 @@
 ## 📌 Featured Projects
 
 ### 🐍 Python & Data Analysis Projects
+- [Vendor Performance Analysis
+](https://github.com/anisahmed01/Vendor-Performance-Analysis
+)
 - [IPL 2022 Data Analysis](https://github.com/anisahmed01/ipl-2022-analysis)
 - [IMDb Movie Rating Analysis](https://github.com/anisahmed01/imdb-movie-rating-analysis)
 - [Delhi Weather Data Analysis](https://github.com/anisahmed01/delhi-weather-analysis)
@@ -38,6 +41,7 @@
 ---
 
 ### 📊 Power BI Dashboards
+- [Superstore Sales & Profit Analysis](https://github.com/anisahmed01/Power_BI_Projects/tree/main/superstore-sales-and-profit-analysis)
 - [Mobile Phone Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)
 - [Amazon Store Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Amazon_Store_Sales_Dashboard)
 
