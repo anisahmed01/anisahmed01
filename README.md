@@ -53,8 +53,8 @@
 
 ## 📂 Other Work (Excel & Sheets)
 
-- [Customer Operations Analytics: Service Level & KPI Tracking(Excel)](https://github.com/anisahmed01/Excel_and_Sheets/tree/main/Call%20Centre%20Dashboard%20Report)
-- [Dynamic Auction Simulation & Player Valuation Logic (IPL) (https://github.com/anisahmed01/Dynamic_Auction_Simulation_and_Player_Valuation_Logic)
+- [Customer Operations Analytics: Service Level & KPI Tracking(Excel)](https://github.com/anisahmed01/Excel_and_Sheets/blob/main/Customer_Operations_Analytics-Service_Level_and_KPI_Tracking/README.md)
+- [Dynamic Auction Simulation & Player Valuation Logic (IPL)](https://github.com/anisahmed01/Dynamic_Auction_Simulation_and_Player_Valuation_Logic)
 
 ---
 
