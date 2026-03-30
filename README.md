@@ -29,19 +29,19 @@
 ## 📌 Featured Projects
 
 ### 🐍 Python & Data Analysis Projects
-- [Supply Chain Analytics: Vendor Performance & Margin Optimization](https://github.com/anisahmed01/Vendor-Performance-Analysis)
-- [Airlines Strategic Revenue & Fleet Efficiency Modeling for Maximizing Annual Turnover](https://github.com/anisahmed01/airline-revenue-and-occupancy-analysis)
-- [Sports Analytics: Predictive Match Strategy & Performance Modeling](https://github.com/anisahmed01/ipl-2022-analysis)
-- [Entertainment Industry Data Trends & Revenue Correlation Study](https://github.com/anisahmed01/imdb-movie-rating-analysis)
-- [Environmental Time-Series Analysis: Delhi Climate Trends](https://github.com/anisahmed01/delhi-weather-analysis)
+- [Supply Chain Analytics: Vendor Performance & Margin Optimization](https://github.com/anisahmed01/Supply_Chain_Analytics-Vendor_Performance_and_Margin_Optimization)
+- [Airlines Strategic Revenue & Fleet Efficiency Modeling for Maximizing Annual Turnover](https://github.com/anisahmed01/Airlines_Strategic_Revenue_and_Fleet_Efficiency_Modeling-)
+- [Sports Analytics: Predictive Match Strategy & Performance Modeling](https://github.com/anisahmed01/Sports_Analytics-Predictive_Match_Strategy_and_Performance_Modeling)
+- [Entertainment Industry Data Trends & Revenue Correlation Study](https://github.com/anisahmed01/Entertainment_Industry_Data_Trends_and_Revenue_Correlation_Study)
+- [Environmental Time-Series Analysis: Delhi Climate Trends](https://github.com/anisahmed01/Environmental_Time_Series_Analysis-Delhi_Climate_Trends)
 - [Python File Manager (CLI)](https://github.com/anisahmed01/file-manager-cli)
-- [FinTech Application: Secure Account Management System](https://github.com/anisahmed01/Bank-Account-Management-System)
+- [FinTech Application: Secure Account Management System](https://github.com/anisahmed01/FinTech_Application-Secure_Account_Management_System)
 
 ---
 
 ### 📊 Power BI Dashboards
-- [Retail Business Intelligence: Sales & Profitability Audit](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Amazon_Store_Sales_Dashboard)
-- [Superstore Sales & Profit Analysis](https://github.com/anisahmed01/Power_BI_Projects/tree/main/superstore-sales-and-profit-analysis)
+- [Retail Business Intelligence: Sales & Profitability Audit](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Retail_Business_Intelligence-Sales_and_Profitability_Audit)
+- [E-commerce Revenue Intelligence: Amazon Global Sales Performance Hub](https://github.com/anisahmed01/Power_BI_Projects/tree/main/E-commerce_Revenue_Intelligence-Amazon_Global_Sales_Performance_Hub)
 - [Mobile Phone Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)
 
 ---
@@ -54,7 +54,7 @@
 ## 📂 Other Work (Excel & Sheets)
 
 - [Customer Operations Analytics: Service Level & KPI Tracking(Excel)](https://github.com/anisahmed01/Excel_and_Sheets/tree/main/Call%20Centre%20Dashboard%20Report)
-- [Dynamic Auction Simulation & Player Valuation Logic (Google Sheets + Apps Script)](https://github.com/anisahmed01/IPL_Auction_Simulator)
+- [Dynamic Auction Simulation & Player Valuation Logic (IPL) (https://github.com/anisahmed01/Dynamic_Auction_Simulation_and_Player_Valuation_Logic)
 
 ---
 
