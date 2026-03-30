@@ -29,21 +29,20 @@
 ## 📌 Featured Projects
 
 ### 🐍 Python & Data Analysis Projects
-- [Vendor Performance Analysis
-](https://github.com/anisahmed01/Vendor-Performance-Analysis
-)
-- [IPL 2022 Data Analysis](https://github.com/anisahmed01/ipl-2022-analysis)
-- [IMDb Movie Rating Analysis](https://github.com/anisahmed01/imdb-movie-rating-analysis)
-- [Delhi Weather Data Analysis](https://github.com/anisahmed01/delhi-weather-analysis)
+- [Supply Chain Analytics: Vendor Performance & Margin Optimization](https://github.com/anisahmed01/Vendor-Performance-Analysis)
+- [Airlines Strategic Revenue & Fleet Efficiency Modeling for Maximizing Annual Turnover](https://github.com/anisahmed01/airline-revenue-and-occupancy-analysis)
+- [Sports Analytics: Predictive Match Strategy & Performance Modeling](https://github.com/anisahmed01/ipl-2022-analysis)
+- [Entertainment Industry Data Trends & Revenue Correlation Study](https://github.com/anisahmed01/imdb-movie-rating-analysis)
+- [Environmental Time-Series Analysis: Delhi Climate Trends](https://github.com/anisahmed01/delhi-weather-analysis)
 - [Python File Manager (CLI)](https://github.com/anisahmed01/file-manager-cli)
-- [Bank Account Management System](https://github.com/anisahmed01/Bank-Account-Management-System)
+- [FinTech Application: Secure Account Management System](https://github.com/anisahmed01/Bank-Account-Management-System)
 
 ---
 
 ### 📊 Power BI Dashboards
+- [Retail Business Intelligence: Sales & Profitability Audit](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Amazon_Store_Sales_Dashboard)
 - [Superstore Sales & Profit Analysis](https://github.com/anisahmed01/Power_BI_Projects/tree/main/superstore-sales-and-profit-analysis)
 - [Mobile Phone Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)
-- [Amazon Store Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Amazon_Store_Sales_Dashboard)
 
 ---
 
@@ -54,8 +53,8 @@
 
 ## 📂 Other Work (Excel & Sheets)
 
-- [Call Center Performance Dashboard (Excel)](https://github.com/anisahmed01/Excel_and_Sheets/tree/main/Call%20Centre%20Dashboard%20Report)
-- [IPL Auction Simulator (Google Sheets + Apps Script)](https://github.com/anisahmed01/IPL_Auction_Simulator)
+- [Customer Operations Analytics: Service Level & KPI Tracking(Excel)](https://github.com/anisahmed01/Excel_and_Sheets/tree/main/Call%20Centre%20Dashboard%20Report)
+- [Dynamic Auction Simulation & Player Valuation Logic (Google Sheets + Apps Script)](https://github.com/anisahmed01/IPL_Auction_Simulator)
 
 ---
 
