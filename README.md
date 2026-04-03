@@ -30,6 +30,7 @@
 
 ### 🐍 Python & Data Analysis Projects
 - [End-to-End Vendor Performance & Inventory Analysis SQL | Python | Power BI](https://github.com/anisahmed01/Supply_Chain_Analytics-Vendor_Performance_and_Margin_Optimization)
+- [Marketing Campaign Analytics: A/B Testing & Conversion Optimization SQL | Python | Statistics](https://github.com/anisahmed01/Marketing-Campaign-Analytics-A-B-Testing-Conversion-Optimization-SQL-Python-Statistics)
 - [Airlines Strategic Revenue & Fleet Efficiency Modeling for Maximizing Annual Turnover](https://github.com/anisahmed01/Airlines_Strategic_Revenue_and_Fleet_Efficiency_Modeling-)
 - [Sports Analytics: Predictive Match Strategy & Performance Modeling](https://github.com/anisahmed01/Sports_Analytics-Predictive_Match_Strategy_and_Performance_Modeling)
 - [Entertainment Industry Data Trends & Revenue Correlation Study](https://github.com/anisahmed01/Entertainment_Industry_Data_Trends_and_Revenue_Correlation_Study)
