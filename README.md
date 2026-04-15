@@ -29,7 +29,7 @@
 ## 📌 Featured Projects
 
 ### 🐍 Python & Data Analysis Projects
-- [Supply Chain Analytics | Vendor Performance & Inventory Optimization (SQL | Python | Power BI)](https://github.com/anisahmed01/Airline-Analytics-Revenue-Optimization-Occupancy-Impact-Analysis)
+- [Supply Chain Analytics | Vendor Performance & Inventory Optimization (SQL | Python | Power BI)](https://github.com/anisahmed01/Supply-Chain-Analytics-Vendor-Performance-Inventory-Optimization)
 - [Product Analytics | User Behavior, Retention & Churn Analysis (Streaming Platform) Python(NumPy, Pandas)](https://github.com/anisahmed01/Product-Analytics-User-Behavior-Retention-Churn-Analysis-Streaming-Platform-)
 - [Marketing Analytics | Campaign Performance & A/B Testing SQL | Python | Statistics](https://github.com/anisahmed01/Marketing-Analytics-Campaign-Performance-A-B-Testing)
 - [Airline Analytics | Revenue Optimization & Occupancy Impact Analysis (SQL + Python)](https://github.com/anisahmed01/Airline-Analytics-Revenue-Optimization-Occupancy-Impact-Analysis)
