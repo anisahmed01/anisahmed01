@@ -29,9 +29,10 @@
 ## 📌 Featured Projects
 
 ### 🐍 Python & Data Analysis Projects
-- [End-to-End Vendor Performance & Inventory Analysis SQL | Python | Power BI](https://github.com/anisahmed01/Supply_Chain_Analytics-Vendor_Performance_and_Margin_Optimization)
-- [Marketing Campaign Analytics: A/B Testing & Conversion Optimization SQL | Python | Statistics](https://github.com/anisahmed01/Marketing-Campaign-Analytics-A-B-Testing-Conversion-Optimization-SQL-Python-Statistics)
-- [Airlines Strategic Revenue & Fleet Efficiency Modeling for Maximizing Annual Turnover](https://github.com/anisahmed01/Airlines_Strategic_Revenue_and_Fleet_Efficiency_Modeling-)
+- [Supply Chain Analytics | Vendor Performance & Inventory Optimization (SQL | Python | Power BI)](https://github.com/anisahmed01/Airline-Analytics-Revenue-Optimization-Occupancy-Impact-Analysis)
+- [Product Analytics | User Behavior, Retention & Churn Analysis (Streaming Platform) Python(NumPy, Pandas)](https://github.com/anisahmed01/Product-Analytics-User-Behavior-Retention-Churn-Analysis-Streaming-Platform-)
+- [Marketing Analytics | Campaign Performance & A/B Testing SQL | Python | Statistics](https://github.com/anisahmed01/Marketing-Analytics-Campaign-Performance-A-B-Testing)
+- [Airline Analytics | Revenue Optimization & Occupancy Impact Analysis (SQL + Python)](https://github.com/anisahmed01/Airline-Analytics-Revenue-Optimization-Occupancy-Impact-Analysis)
 - [Sports Analytics: Predictive Match Strategy & Performance Modeling](https://github.com/anisahmed01/Sports_Analytics-Predictive_Match_Strategy_and_Performance_Modeling)
 - [Entertainment Industry Data Trends & Revenue Correlation Study](https://github.com/anisahmed01/Entertainment_Industry_Data_Trends_and_Revenue_Correlation_Study)
 - [Environmental Time-Series Analysis: Delhi Climate Trends](https://github.com/anisahmed01/Environmental_Time_Series_Analysis-Delhi_Climate_Trends)
@@ -41,7 +42,7 @@
 ---
 
 ### 📊 Power BI Dashboards
-- [Retail Business Intelligence: Sales & Profitability Audit](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Retail_Business_Intelligence-Sales_and_Profitability_Audit)
+- [Business Intelligence Dashboard | Sales & KPI Performance (Power BI)](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Retail_Business_Intelligence-Sales_and_Profitability_Audit)
 - [E-commerce Revenue Intelligence: Amazon Global Sales Performance Hub](https://github.com/anisahmed01/Power_BI_Projects/tree/main/E-commerce_Revenue_Intelligence-Amazon_Global_Sales_Performance_Hub)
 - [Mobile Phone Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)
 
@@ -54,7 +55,7 @@
 
 ## 📂 Other Work (Excel & Sheets)
 
-- [Customer Operations Analytics: Service Level & KPI Tracking(Excel)](https://github.com/anisahmed01/Excel_and_Sheets/blob/main/Customer_Operations_Analytics-Service_Level_and_KPI_Tracking)
+- [Operations Analytics | KPI & Performance Dashboard (Excel & Google Sheets)](https://github.com/anisahmed01/Excel_and_Sheets/blob/main/Customer_Operations_Analytics-Service_Level_and_KPI_Tracking)
 - [Dynamic Auction Simulation & Player Valuation Logic (IPL)](https://github.com/anisahmed01/Dynamic_Auction_Simulation_and_Player_Valuation_Logic)
 
 ---
