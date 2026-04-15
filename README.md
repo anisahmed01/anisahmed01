@@ -42,7 +42,7 @@
 ---
 
 ### 📊 Power BI Dashboards
-- [Business Intelligence Dashboard | Sales & KPI Performance (Power BI)](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Retail_Business_Intelligence-Sales_and_Profitability_Audit)
+- [Business Intelligence Dashboard | Sales & KPI Performance (Power BI)](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Business%20Intelligence%20Dashboard%20%7C%20Sales%20%26%20KPI%20Performance%20(Power%20BI))
 - [E-commerce Revenue Intelligence: Amazon Global Sales Performance Hub](https://github.com/anisahmed01/Power_BI_Projects/tree/main/E-commerce_Revenue_Intelligence-Amazon_Global_Sales_Performance_Hub)
 - [Mobile Phone Sales Dashboard](https://github.com/anisahmed01/Power_BI_Projects/tree/main/Mobile_Phone_Sales_Dashboard)
 
@@ -55,7 +55,7 @@
 
 ## 📂 Other Work (Excel & Sheets)
 
-- [Operations Analytics | KPI & Performance Dashboard (Excel & Google Sheets)](https://github.com/anisahmed01/Excel_and_Sheets/blob/main/Customer_Operations_Analytics-Service_Level_and_KPI_Tracking)
+- [Operations Analytics | KPI & Performance Dashboard (Excel & Google Sheets)](https://github.com/anisahmed01/Excel_and_Sheets/tree/main/Operations%20Analytics%20%7C%20KPI%20%26%20Performance%20Dashboard%20(Excel%20%26%20Google%20Sheets))
 - [Dynamic Auction Simulation & Player Valuation Logic (IPL)](https://github.com/anisahmed01/Dynamic_Auction_Simulation_and_Player_Valuation_Logic)
 
 ---
