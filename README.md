@@ -32,6 +32,7 @@
 - [Supply Chain Analytics | Vendor Performance & Inventory Optimization (SQL | Python | Power BI)](https://github.com/anisahmed01/Supply-Chain-Analytics-Vendor-Performance-Inventory-Optimization)
 - [Product Analytics | User Behavior, Retention & Churn Analysis (Streaming Platform) Python(NumPy, Pandas)](https://github.com/anisahmed01/Product-Analytics-User-Behavior-Retention-Churn-Analysis-Streaming-Platform-)
 - [Marketing Analytics | Campaign Performance & A/B Testing SQL | Python | Statistics](https://github.com/anisahmed01/Marketing-Analytics-Campaign-Performance-A-B-Testing)
+- [Supply Chain Delay Risk Diagnosis & Prediction (Python EDA + Machine Learning)](https://github.com/anisahmed01/Supply-Chain-Delay-Risk-Diagnosis-and-Prediction)
 - [Airline Analytics | Revenue Optimization & Occupancy Impact Analysis (SQL + Python)](https://github.com/anisahmed01/Airline-Analytics-Revenue-Optimization-Occupancy-Impact-Analysis)
 - [Sports Analytics: Predictive Match Strategy & Performance Modeling](https://github.com/anisahmed01/Sports_Analytics-Predictive_Match_Strategy_and_Performance_Modeling)
 - [Entertainment Industry Data Trends & Revenue Correlation Study](https://github.com/anisahmed01/Entertainment_Industry_Data_Trends_and_Revenue_Correlation_Study)
