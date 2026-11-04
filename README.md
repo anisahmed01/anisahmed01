@@ -23,11 +23,13 @@
 ---
 <div align="center">
   <br>
-  <p>
-    <img src="https://img.shields.io/badge/PHILOSOPHY-%E2%80%9CAutomate%20everything.%20Break%20nothing.%E2%80%9D-00F0FF?style=for-the-badge&logoColor=000000" />
-    <br>
-    <img src="https://img.shields.io/badge/STATUS-Thanks%20for%20stopping%20by!%20%F0%9F%90%8B-39FF14?style=for-the-badge&logoColor=000000" />
-  </p>
+  <div style="background-color: #0b0f19; border: 1.5px solid #0055ff; border-radius: 10px; padding: 18px 30px; display: inline-block; box-shadow: 0 0 20px rgba(0, 85, 255, 0.35);">
+    <p style="margin: 0; font-family: 'Fira Code', monospace; font-size: 15px; color: #3b82f6; text-shadow: 0 0 10px rgba(59, 130, 246, 0.7);">
+      &ldquo;Automate everything. Break nothing.&rdquo;
+      <br><br>
+      <span style="color: #ff6b00; text-shadow: 0 0 10px rgba(255, 107, 0, 0.7); font-weight: bold;">Thanks for stopping by! 👋</span>
+    </p>
+  </div>
   <br>
 </div>
 
