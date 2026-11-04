@@ -23,10 +23,15 @@
 ---
 <div align="center">
   <br>
-  <blockquote style="border-left: 4px solid #00f0ff;">
-    <code style="color: #00f0ff; font-weight: bold;">“Automate everything. Break nothing.”</code> 
-    <span style="color: #39ff14;">Thanks for stopping by! 👋</span>
-  </blockquote>
+  <table>
+    <tr>
+      <td align="center" bgcolor="#0b0f19">
+        <code>&ldquo;Automate everything. Break nothing.&rdquo;</code> 
+        <br>
+        <span style="color: #39ff14;">Thanks for stopping by! 👋</span>
+      </td>
+    </tr>
+  </table>
   <br>
 </div>
 
