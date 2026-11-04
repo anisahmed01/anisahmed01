@@ -98,10 +98,10 @@ anis@devops-core:~$ neofetch --profile
 ## 📊 GitHub Metrics & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anisahmed01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anis's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisahmed01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisahmed01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anisahmed01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anis's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisahmed01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisahmed01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
@@ -109,7 +109,7 @@ anis@devops-core:~$ neofetch --profile
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-snake-dark.svg" alt="GitHub Snake Dark" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </div>
 
 ---
