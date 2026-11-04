@@ -23,13 +23,19 @@
 ---
 <div align="center">
   <br>
-  <div style="background-color: #0b0f19; border: 1.5px solid #0055ff; border-radius: 10px; padding: 18px 30px; display: inline-block; box-shadow: 0 0 20px rgba(0, 85, 255, 0.35);">
-    <p style="margin: 0; font-family: 'Fira Code', monospace; font-size: 15px; color: #3b82f6; text-shadow: 0 0 10px rgba(59, 130, 246, 0.7);">
-      &ldquo;Automate everything. Break nothing.&rdquo;
-      <br><br>
-      <span style="color: #ff6b00; text-shadow: 0 0 10px rgba(255, 107, 0, 0.7); font-weight: bold;">Thanks for stopping by! 👋</span>
-    </p>
-  </div>
+  <table>
+    <tr>
+      <td align="center" bgcolor="#0b0f19" style="padding: 16px 24px;">
+        <span style="color: #3b82f6; font-family: monospace; font-size: 15px; font-weight: bold;">
+          &ldquo;Automate everything. Break nothing.&rdquo;
+        </span>
+        <br><br>
+        <span style="color: #ff6b00; font-family: monospace; font-size: 14px; font-weight: bold;">
+          Thanks for stopping by! 👋
+        </span>
+      </td>
+    </tr>
+  </table>
   <br>
 </div>
 
