@@ -21,21 +21,14 @@
 </div>
 
 ---
+
 <div align="center">
   <br>
-  <table>
-    <tr>
-      <td align="center" bgcolor="#0b0f19" style="padding: 16px 24px;">
-        <span style="color: #3b82f6; font-family: monospace; font-size: 15px; font-weight: bold;">
-          &ldquo;Automate everything. Break nothing.&rdquo;
-        </span>
-        <br><br>
-        <span style="color: #ff6b00; font-family: monospace; font-size: 14px; font-weight: bold;">
-          Thanks for stopping by! 👋
-        </span>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://img.shields.io/badge/%E2%80%9CAutomate%20everything.%20Break%20nothing.%E2%80%9D-1d4ed8?style=for-the-badge&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by!%20%F0%9F%90%8B-ff6b00?style=for-the-badge&logoColor=white" />
+  </p>
   <br>
 </div>
 
