@@ -21,6 +21,18 @@
 </div>
 
 ---
+<div align="center">
+  <br>
+  <div style="background-color: #0b0f19; border: 1px solid #00f0ff; border-radius: 8px; padding: 16px 24px; display: inline-block; box-shadow: 0 0 15px rgba(0, 240, 255, 0.2);">
+    <p style="margin: 0; font-family: monospace; font-size: 15px; color: #00f0ff; text-shadow: 0 0 8px rgba(0, 240, 255, 0.6);">
+      &ldquo;Automate everything. Break nothing.&rdquo; 
+      <span style="color: #39ff14; text-shadow: 0 0 8px rgba(57, 255, 20, 0.6);">Thanks for stopping by! 👋</span>
+    </p>
+  </div>
+  <br>
+</div>
+
+---
 
 ### ⚡ System Status & Overview
 
