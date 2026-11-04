@@ -22,6 +22,30 @@
 
 ---
 
+<div align="center">
+  <h1 align="center">Anis Ahmed</h1>
+  <p align="center">DevOps Engineer | AWS, GCP, Azure • Docker • Kubernetes • Terraform • CI/CD</p>
+
+  <p>
+    <a href="https://anisahmed.in"><img src="https://img.shields.io/badge/🌐_Website-anisahmed.in-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/webanis/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:contact@anisahmed.in"><img src="https://img.shields.io/badge/Email-contact@anisahmed.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+
+  <br>
+
+  <!-- Custom Website Quote -->
+  <p><em>“Automate everything. Break nothing.” Thanks for stopping by! 👋</em></p>
+</div>
+
+---
+
+### ⚡ System Status & Overview
+
+```bash
+anis@devops-core:~$ neofetch --profile
+---
+
 ### ⚡ System Status & Overview
 
 ```bash
