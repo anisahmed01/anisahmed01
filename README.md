@@ -98,21 +98,22 @@ anis@devops-core:~$ neofetch --profile
 ## 📊 GitHub Metrics & Analytics
 
 <div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/anisahmed01/anisahmed01/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-  <img width="49%" src="https://raw.githubusercontent.com/anisahmed01/anisahmed01/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-  <img width="49%" src="https://raw.githubusercontent.com/anisahmed01/anisahmed01/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
-  <img width="49%" src="https://raw.githubusercontent.com/anisahmed01/anisahmed01/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
-  <img width="49%" src="https://raw.githubusercontent.com/anisahmed01/anisahmed01/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=anisahmed01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anis's GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisahmed01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisahmed01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anisahmed01/anisahmed01/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anisahmed01/anisahmed01/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/anisahmed01/anisahmed01/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/anisahmed01/anisahmed01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
