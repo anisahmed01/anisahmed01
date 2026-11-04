@@ -25,9 +25,9 @@
 <div align="center">
   <br>
   <p>
-    <img src="https://img.shields.io/badge/%E2%80%9CAutomate%20everything.%20Break%20nothing.%E2%80%9D-1d4ed8?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/%E2%80%9CAutomate%20everything.%20Break%20nothing.%E2%80%9D-dc2626?style=for-the-badge&logoColor=white" />
     <br>
-    <img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by!%20%F0%9F%90%8B-ff6b00?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by!%20%F0%9F%90%8B-dc2626?style=for-the-badge&logoColor=white" />
   </p>
   <br>
 </div>
