@@ -98,22 +98,18 @@ anis@devops-core:~$ neofetch --profile
 ## 📊 GitHub Metrics & Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=anisahmed01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anis's GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisahmed01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=anisahmed01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anis's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisahmed01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisahmed01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anisahmed01/anisahmed01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-snake-dark.svg" alt="GitHub Snake Dark" />
 </div>
 
 ---
