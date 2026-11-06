@@ -118,8 +118,7 @@ anis@devops-core:~$ neofetch --profile
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=anisahmed01&color=dc2626&style=for-the-badge&label=TOTAL+VISITS" alt="Total Profile Views" />
-  <img src="https://profile-counter.glitch.me/anisahmed01/count.svg" alt="Unique Views" />
+  <img src="https://counter.s3.cli.eco/anisahmed01/badge.svg?start=2316" alt="Total Profile Visits" />
   <br>
 </div>
 
