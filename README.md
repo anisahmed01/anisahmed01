@@ -14,18 +14,15 @@
   <a href="mailto:contact@anisahmed.in"><img src="https://img.shields.io/badge/Email-contact@anisahmed.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
-
 <div align="center">
   <br>
   <!-- Primary Public Badge -->
   <img src="https://img.shields.io/badge/TOTAL%20VISITS-2%2C316-dc2626?style=for-the-badge&logoColor=white" alt="Total Visits" />
   <br><br>
   <!-- Background Live Tracker (Starts from 1 and counts real hits) -->
-  <img src="https://komarev.com/ghpvc/?username=anisahmed01&color=dc2626&style=flat-square&label= Hits " alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=anisahmed01&color=dc2626&style=flat-square&label= Hits " alt="Hits" />
   <br>
 </div>
-
-
 ---
 
 <div align="center">
