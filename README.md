@@ -16,11 +16,11 @@
 ---
 <div align="center">
   <br>
-  <!-- Primary Public Badge -->
+  <!-- Primary Public Badge (Static) -->
   <img src="https://img.shields.io/badge/TOTAL%20VISITS-2%2C316-dc2626?style=for-the-badge&logoColor=white" alt="Total Visits" />
   <br><br>
-  <!-- Background Live Tracker (Starts from 1 and counts real hits) -->
-  <img src="https://komarev.com/ghpvc/?username=anisahmed01&color=dc2626&style=flat-square&label= Hits " alt="Hits" />
+  <!-- Background Live Tracker (Valid URL for GitHub Proxy) -->
+  <img src="https://komarev.com/ghpvc/?username=anisahmed01&color=dc2626&style=flat-square&label=Hits" alt="Hits" />
   <br>
 </div>
 
