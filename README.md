@@ -122,12 +122,6 @@ anis@devops-core:~$ neofetch --profile
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisahmed01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://counter.s3.cli.eco/anisahmed01/badge.svg?start=2316" alt="Total Profile Visits" />
-  <br>
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
