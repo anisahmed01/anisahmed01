@@ -15,10 +15,16 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=anisahmed01&label=Profile%20Views&color=00b8d4&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/anisahmed01?label=Followers&style=flat-square&logo=github&color=0A66C2" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/anisahmed01?label=Stars&style=flat-square&logo=github&color=FFD700" alt="Stars" />
+<div align="center">
+  <br>
+  <!-- Primary Public Badge -->
+  <img src="https://img.shields.io/badge/TOTAL%20VISITS-2%2C316-dc2626?style=for-the-badge&logoColor=white" alt="Total Visits" />
+  <br><br>
+  <!-- Background Live Tracker (Starts from 1 and counts real hits) -->
+  <img src="https://komarev.com/ghpvc/?username=anisahmed01&color=dc2626&style=flat-square&label= Hits " alt="Visitor Count" />
+  <br>
 </div>
+
 
 ---
 
