@@ -116,6 +116,13 @@ anis@devops-core:~$ neofetch --profile
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisahmed01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=anisahmed01&color=dc2626&style=for-the-badge&label=TOTAL+VISITS" alt="Total Profile Views" />
+  <img src="https://profile-counter.glitch.me/anisahmed01/count.svg" alt="Unique Views" />
+  <br>
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
